@@ -1,10 +1,2 @@
 /node_modules/
-/src/
-/.gitignore
-/bundle.js
-/index.html
-/package.json
-/package-lock.json
-/rollup.config.js
-/style.css
-/tsconfig.json
+
