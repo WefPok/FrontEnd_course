@@ -8,18 +8,18 @@
 
 <div class="card-container">
     <div class="card">
-        <img src={base + 'assests/1.jpg'} alt="Card 1">
+        <img src={base + 'src/lib/assests/1.jpg'} alt="Card 1">
         <p>FlexCard 1</p>
         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
     </div>
     <div class="card">
-        <img src={base + 'assests/2.jpg'}
+        <img src={base + 'src/lib/assests/2.jpg'}
              alt="Card 2">
         <p>FlexCard 2</p>
         <p>Nullam non est cursus, finibus velit sed, vestibulum ante.</p>
     </div>
     <div class="card">
-        <img src={base + 'assests/3.jpg'}
+        <img src={base + 'src/lib/assests/3.jpg'}
              alt="Card 3">
         <p>FlexCard 3</p>
         <p>Pellentesque accumsan est eget metus volutpat, ac blandit quam consequat.</p>
