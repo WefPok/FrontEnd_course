@@ -30,21 +30,4 @@
         filter: invert(1);
     }
 
-    .card img {
-        width: auto;
-        height: 100px;
-        border-radius: 5px;
-        margin-bottom: 10px;
-    }
-
-    .card h3 {
-        font-size: 24px;
-        margin-bottom: 10px;
-    }
-
-    .card p {
-        font-size: 18px;
-        line-height: 1.5;
-        color: #666;
-    }
 </style>
