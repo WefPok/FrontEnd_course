@@ -1,7 +1,6 @@
 <script>
-    import img1 from '$lib/assests/1.jpg'
-    import img2 from '$lib/assests/2.jpg'
-    import img3 from '$lib/assests/3.jpg'
+    import { base } from '$app/paths'
+
 </script>
 
 <h2>My Projects</h2>
@@ -9,18 +8,18 @@
 
 <div class="card-container">
     <div class="card">
-        <img src={img1} alt="Card 1">
+        <img src={base + 'assests/1.jpg'} alt="Card 1">
         <p>FlexCard 1</p>
         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
     </div>
     <div class="card">
-        <img src={img2}
+        <img src={base + 'assests/2.jpg'}
              alt="Card 2">
         <p>FlexCard 2</p>
         <p>Nullam non est cursus, finibus velit sed, vestibulum ante.</p>
     </div>
     <div class="card">
-        <img src={img3}
+        <img src={base + 'assests/3.jpg'}
              alt="Card 3">
         <p>FlexCard 3</p>
         <p>Pellentesque accumsan est eget metus volutpat, ac blandit quam consequat.</p>
