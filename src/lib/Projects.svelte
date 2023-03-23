@@ -8,18 +8,18 @@
 
 <div class="card-container">
     <div class="card">
-        <img src={base + 'src/lib/assests/1.jpg'} alt="Card 1">
+        <img src={'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTe2Sif9GmQwqGDf5O9Wi1MtikTqiEyOHENGutujpYDKIA1gPg4B7hiCZv0qXi_7IYy1M&usqp=CAU'} alt="Card 1">
         <p>FlexCard 1</p>
         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
     </div>
     <div class="card">
-        <img src={base + 'src/lib/assests/2.jpg'}
+        <img src={'https://i.guim.co.uk/img/media/26392d05302e02f7bf4eb143bb84c8097d09144b/446_167_3683_2210/master/3683.jpg?width=1200&quality=85&auto=format&fit=max&s=a52bbe202f57ac0f5ff7f47166906403'}
              alt="Card 2">
         <p>FlexCard 2</p>
         <p>Nullam non est cursus, finibus velit sed, vestibulum ante.</p>
     </div>
     <div class="card">
-        <img src={base + 'src/lib/assests/3.jpg'}
+        <img src={'https://cdn.britannica.com/91/181391-050-1DA18304/cat-toes-paw-number-paws-tiger-tabby.jpg'}
              alt="Card 3">
         <p>FlexCard 3</p>
         <p>Pellentesque accumsan est eget metus volutpat, ac blandit quam consequat.</p>
