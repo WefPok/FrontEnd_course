@@ -8,7 +8,7 @@
 
 <div class="card-container">
     <div class="card">
-        <img src={'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTe2Sif9GmQwqGDf5O9Wi1MtikTqiEyOHENGutujpYDKIA1gPg4B7hiCZv0qXi_7IYy1M&usqp=CAU'} alt="Card 1">
+        <img src={'https://hips.hearstapps.com/hmg-prod/images/domestic-cat-lies-in-a-basket-with-a-knitted-royalty-free-image-1592337336.jpg?crop=0.668xw:1.00xh;0.247xw,0&resize=1200:*'} alt="Card 1">
         <p>FlexCard 1</p>
         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
     </div>
@@ -19,7 +19,7 @@
         <p>Nullam non est cursus, finibus velit sed, vestibulum ante.</p>
     </div>
     <div class="card">
-        <img src={'https://cdn.britannica.com/91/181391-050-1DA18304/cat-toes-paw-number-paws-tiger-tabby.jpg'}
+        <img src={'https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Cat_November_2010-1a.jpg/767px-Cat_November_2010-1a.jpg'}
              alt="Card 3">
         <p>FlexCard 3</p>
         <p>Pellentesque accumsan est eget metus volutpat, ac blandit quam consequat.</p>

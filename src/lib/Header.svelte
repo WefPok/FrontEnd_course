@@ -1,12 +1,15 @@
+<script>
+    import { base } from '$app/paths'
+</script>
 <header>
     <nav>
         <div id="container">
             <ul>
                 <li>
-                    <a href="/">Noskov Nikita</a>
+                    <a href="{base}/">Noskov Nikita</a>
                 </li>
                 <li>
-                    <a href="/about">About</a>
+                    <a href="{base}/about">About</a>
                 </li>
             </ul>
         </div>
